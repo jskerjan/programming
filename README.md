@@ -1,0 +1,2 @@
+# programming
+computer competencies
