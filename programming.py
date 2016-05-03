@@ -12,3 +12,5 @@ b = b, c = c, d = d, e = e))
 print('Answer : {u}x'. format (u = u))
 
 #This is a comment about editing for the staging and committing competency 
+
+#This comment is an edit being made through the GitHub website to demonstrate the pulling competency
